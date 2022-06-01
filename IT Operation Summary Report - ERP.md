@@ -40,6 +40,7 @@ Inter Company Automate|Go-Live
 Auto Alert|Go-Live and Review in production server
 Workflow Revise|ออกแบบเรียบร้อยแล้ว เตรียมสรุปผลนำเสนอสำหรับ Phase#1 โดยจะยังไม่มี O3 อยู่ใน Workflow แต่เป็นการ Remove Duplicated ของ Workflow และกลุ่มของการอนุมัติที่ซ้ำซ้อน (นำเสนอวันที่ 06/06/2022)
 Cal Cost|ออกแบบ Flow การทำงานเรียบร้อยแล้ว เตรียมวางแผนโปรเจค
+***
 
 **ERP Team Project Timeline 2022** https://gofivegroup.sharepoint.com/:x:/s/ITERP/EX2NZuAgIpBFpFTJvF23FsMBTZUm4_jgncWha8bjLxFwFg
 
