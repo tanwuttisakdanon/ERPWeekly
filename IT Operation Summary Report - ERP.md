@@ -37,7 +37,7 @@ Review Service|Merging Service เรียบร้อยแล้ว เตร
 Realtime Process|เตรียม Go-Live (Sprint 1)
 Power BI & Dashboard|Planning Dashboard (Ham) ปรับ Query ภาพเครื่องจักร รันทุกๆ 10 นาที
 Inter Company Automate|Go-Live
-Auto Alert|รอเพิ่ม Daily Status Alert 
+Auto Alert|Go-Live and Review in production server
 Workflow Revise|ออกแบบเรียบร้อยแล้ว เตรียมสรุปผลนำเสนอสำหรับ Phase#1 โดยจะยังไม่มี O3 อยู่ใน Workflow แต่เป็นการ Remove Duplicated ของ Workflow และกลุ่มของการอนุมัติที่ซ้ำซ้อน (นำเสนอวันที่ 06/06/2022)
 Cal Cost|ออกแบบ Flow การทำงานเรียบร้อยแล้ว เตรียมวางแผนโปรเจค
 
