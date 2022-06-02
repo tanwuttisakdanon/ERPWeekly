@@ -25,6 +25,8 @@
 
 **Credit Limit Mass Upload**	เนื่องจาก Credit Limit ของหลาย Customer ไม่ถูกต้อง ทำให้ต้องมีการปรับใหม่เพื่อให้ถูกต้อง 	Mass Update Credit Limit และ Export ข้อมูลลูกค้าที่ Credit Limit ค่าใหม่กระทบกับการเปิด Sales Order หรือ Invoice	**กำหนดเสร็จ** 04/06/2022
 
+**Edit Signature TBDP Report**	เนื่องจากเจ้าของลายเซ็นต์ลาออก จึงจำเป็นต้องแก้ไขลายเซ็นใน Report ที่เกี่ยวข้องเช่น Invoice และ Receipt	**กำหนดเสร็จ** 04/06/2022
+
 ## *CO-Project*
 **WH Location Project** เปลี่ยนความต้องการเป็นส่งข้อมูล Packing Slip เพื่อใช้ยริการขนส่งกับ Kerry โดยมีงานที่ทีม ERP ต้องรับผิดชอบในสว่นของการทำ Report Support ทีมบัญชีในการเช็ค Diff ของการ Post Invoice ข้ามเดือนกับ Packing Slip รวมถึงการแก้ไข Report as Finished Auto เพื่อให้รับยอดผลิตจากระบบ TOne และ Picking and Packing Automatically **กำหนดเสร็จ** 01/07/2022
 
@@ -41,7 +43,7 @@ Inter Company Automate|Go-Live and Review
 Auto Alert|Go-Live and Review
 Workflow Revise|ออกแบบเรียบร้อยแล้ว เตรียมสรุปผลนำเสนอสำหรับ Phase#1 และ Return Advance โดยจะยังไม่มี O3 อยู่ใน Workflow แต่เป็นการ Remove Duplicated ของ Workflow และกลุ่มของการอนุมัติที่ซ้ำซ้อน (นำเสนอวันที่ 06/06/2022)
 Cal Cost|ออกแบบ Flow การทำงานเรียบร้อยแล้ว เตรียมวางแผนโปรเจค
-Credit Limit|ออกแบบ Timeline การงานเรียบร้อยแล้ว
+Credit Limit|Task List เรียบร้อยแล้ว เตรียมออกแบบ Prject Timeframe
 Auto PO After Re-Ordering Point|เริ่มต้นโดยการระบุค่า Minimum ใน Product ที่ต้องการให้เกิดการแจ้งเตือนผ่านทาง Email กรณี Inventory Balance ลดลงมากกว่า Minimum ที่ระบุไว้
 ***
 
