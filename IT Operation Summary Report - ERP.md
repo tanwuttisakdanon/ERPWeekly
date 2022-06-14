@@ -1,5 +1,5 @@
-# IT Operation Summary Report - 24 
-##### 6 June - 10 June 2022
+# IT Operation Summary Report - 25 
+##### 13 June - 17 June 2022
 ## **IT ERP**
 ## Executive summary
   
@@ -18,15 +18,21 @@
 
 ## *Weekly Task*
 
-**Clear Advance Workflow**	ต้องการ Set Workflow ให้การ Clear Advance ในทุกๆกรณีผ่าน Flow ตามเงื่อนไขที่กำหนดไว้ โดยแจ้งผลการแก้ไขทุกเงื่อนไข โดยเงื่อนไขที่ 3 (ใช้เกิน) ให้ CEO อนุมัติทุกกรณี นำเสนอพร้อมกันกับ Workflow Revise เพื่อดำเนินการแก้ไขพร้อมกัน ในวันที่ 13/06/2022	**กำหนดเสร็จ** 27/05/2022(Delay)
+**Clear Advance Workflow**	ต้องการ Set Workflow ให้การ Clear Advance ในทุกๆกรณีผ่าน Flow ตามเงื่อนไขที่กำหนดไว้ โดยแจ้งผลการแก้ไขทุกเงื่อนไข โดยเงื่อนไขที่ 3 (ใช้เกิน) ให้ CEO อนุมัติทุกกรณี นำเสนอพร้อมกันกับ Workflow Revise เพื่อดำเนินการแก้ไขพร้อมกัน ในวันที่ 14/06/2022	**กำหนดเสร็จ** 27/05/2022(Delay)
 
-**Credit Limit Approval**	เนื่องจากทีมการเงินได้ใช้ Approve Credit Limit ที่ทีมพัฒนาเสร็จเรียบร้อยแล้ว แต่มีความต้องการเพิ่มเติมเพื่อให้สามารถทำงานได้สะดวกมากยิ่งขึ้น จึงให้ทีมไอทีได้เพิ่มเติม	โดยแก้ไข Flow การ Approve ให้มี Sales Manager เป็น Review Level 1 และทีมการเงินจะทำการ Approve ตามลำดับขึ้นต่อไป โดยการ Approve Level 1 จะต้องแนบเอกสารสำคัญ 5 เอกสาร (กำหนดเป็น ERP Project)	**กำหนดเสร็จ** 17/06/2022(Delay)
+**Credit Limit Approval**	เนื่องจากทีมการเงินได้ใช้ Approve Credit Limit ที่ทีมพัฒนาเสร็จเรียบร้อยแล้ว แต่มีความต้องการเพิ่มเติมเพื่อให้สามารถทำงานได้สะดวกมากยิ่งขึ้น จึงให้ทีมไอทีได้เพิ่มเติม	โดยแก้ไข Flow การ Approve ให้มี Sales Manager เป็น Review Level 1 และทีมการเงินจะทำการ Approve ตามลำดับขึ้นต่อไป โดยการ Approve Level 1 จะต้องแนบเอกสารสำคัญ 5 เอกสาร (กำหนดเป็น ERP Project)	**กำหนดเสร็จ** 20/06/2022(Delay)
 
-**Credit Limit Mass Upload**	เนื่องจาก Credit Limit ของหลาย Customer ไม่ถูกต้อง ทำให้ต้องมีการปรับใหม่เพื่อให้ถูกต้อง 	Mass Update Credit Limit และ Export ข้อมูลลูกค้าที่ Credit Limit ค่าใหม่กระทบกับการเปิด Sales Order หรือ Invoice	**กำหนดเสร็จ** 13/06/2022(Delay)
+**Credit Limit Mass Upload**	เนื่องจาก Credit Limit ของหลาย Customer ไม่ถูกต้อง ทำให้ต้องมีการปรับใหม่เพื่อให้ถูกต้อง 	Mass Update Credit Limit และ Export ข้อมูลลูกค้าที่ Credit Limit ค่าใหม่กระทบกับการเปิด Sales Order หรือ Invoice	**กำหนดเสร็จ** 17/06/2022(Delay)
 
 **Edit Signature TBDP Report**	เนื่องจากเจ้าของลายเซ็นต์ลาออก จึงจำเป็นต้องแก้ไขลายเซ็นใน Report ที่เกี่ยวข้องเช่น Invoice และ Receipt	**กำหนดเสร็จ** 17/06/2022(Delay)
 
 **E-Purchase**	เตรียมประชุมกับทีม Sales เพื่อหาแนวทางในการตอบลูกค้า	**กำหนดเสร็จ** 15/06/2022(Delay)
+
+**Sales Order Template**	ทศนิยมในส่วนของราคาต่อหน่วยมีจำนวนมาก ทำให้เกิด Error ในระบบที่ไม่ถูกต้อง ทำการ Validate ไม่ให้เกิน 4 Digits	**กำหนดเสร็จ** 17/06/2022
+
+**ตัดเบิกกาวอัตโนมัติ(Ticket#5266)**	หน่วยงานเตรียมพิมพ์มีความต้องการตัดเบิก RM กาว ต้องคุยรายละเอียดอีกครั้ง **กำหนดเสร็จ** 17/06/2022
+
+**Printing Report**	(High Priority) Packing Slip, Invoice แต่ละต้นทางการปริ้นแสดงผลไม่เหมือนกัน อาจจะต้องเก็บข้อมูล Report ที่มีปัยหาแล้วตรวจสอบในระบบอีกครั้ง **กำหนดเสร็จ** 17/06/2022
 
 ## *CO-Project*
 **WH Location Project** เปลี่ยนความต้องการเป็นส่งข้อมูล Packing Slip เพื่อใช้ยริการขนส่งกับ Kerry โดยมีงานที่ทีม ERP ต้องรับผิดชอบดังนี้ 
@@ -48,7 +54,7 @@ Project Name|Weekly highlight|
 Review Service|Merging Service เรียบร้อยแล้ว เตรียมขึ้น Production กลางเดือนมิถุนายม (หลังปาล์มรับปริญญา)
 Realtime Process|Go-Live (Sprint 1) and Review, Sprint Planning (Sprint#2)
 Power BI & Dashboard|Planning Dashboard แก้ไข Job Monitor Offset Web เพื่อให้สามารถผลเป็น TV ได้
-Workflow Revise|ออกแบบเรียบร้อยแล้ว เตรียมสรุปผลนำเสนอสำหรับ Phase#1 และ Return Advance โดยจะยังไม่มี O3 อยู่ใน Workflow แต่เป็นการ Remove Duplicated ของ Workflow และกลุ่มของการอนุมัติที่ซ้ำซ้อน (นำเสนอวันที่ 06/06/2022)
+Workflow Revise|ออกแบบเรียบร้อยแล้ว เตรียมสรุปผลนำเสนอสำหรับ Phase#1 และ Return Advance โดยจะยังไม่มี O3 อยู่ใน Workflow แต่เป็นการ Remove Duplicated ของ Workflow และกลุ่มของการอนุมัติที่ซ้ำซ้อน (นำเสนอวันที่ 14/06/2022)
 Cal Cost|ออกแบบ Flow การทำงานเรียบร้อยแล้ว เตรียมวางแผนโปรเจค
 Credit Limit|Task List เรียบร้อยแล้ว เตรียมทำ Sprint Planning
 Auto PO After Re-Ordering Point|เริ่มต้นโดยการระบุค่า Minimum ใน Product ที่ต้องการให้เกิดการแจ้งเตือนผ่านทาง Email กรณี Inventory Balance ลดลงมากกว่า Minimum ที่ระบุไว้
