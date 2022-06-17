@@ -41,7 +41,7 @@ https://gofivegroup.sharepoint.com/:w:/s/ITERP/EZxAPab0vBRBmDqVgfEManMBfZ97IQ4Nq
 Project Name|Weekly highlight|
 |---|---|
 Review Service|Merging Service เรียบร้อยแล้ว เตรียมขึ้น Production สิ้นเดือนมิถุนายน
-Realtime Process|Sprint#1 Closed, Sprint#2 - In Progress 
+Realtime Process|Sprint#1 - Closed, Sprint#2 - In Progress 
 Power BI & Dashboard|Planning Dashboard ยังขาดรูปเครื่องจักร รอ Deploy กำหนดเสร็จ 24/06/2022
 Workflow Revise|Return Advance ทำได้ทันที, PR-PO รอเซ็นอนุมัติอีกครั้ง เนื่องจากต้องการยุบจำนวน Workflow ตามที่ได้ออกแบบเพราะมีการแก้ไข
 Cal Cost|ออกแบบ Flow การทำงานเรียบร้อยแล้ว เตรียมประชุมกับ User วันที่ 20/06/2022
