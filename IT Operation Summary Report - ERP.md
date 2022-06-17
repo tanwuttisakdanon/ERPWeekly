@@ -5,43 +5,32 @@
   
 ## Highlight / Important
 - Mass Upload Credit Limit
+- Workflow Revise Conclusion
 ## Meeting 
-- E-Purchase 2 Get Requirement with Isuzu(Tripetch) Customer
-- E-Purchase 2 Isuzu(Tripetch) Preparation Meeting
-- RTP Sprint Planning (Sprint#2)
-- Service Catelog
-- Warehouse with Kerry Plan Discussion
-- Asset Management Design
-- IT Operation and Service Projects Review Meeting
+- ERP Monthly and Project Q2 Task Summary
+- Approval Workflow Present
+- ORK Q2 Result Review and ORK Q3 Plan
+- ERP Weekly Summary Meeting
 
 # Operation & Service #
 
 ## *Weekly Task*
 
-**Clear Advance Workflow**	ต้องการ Set Workflow ให้การ Clear Advance ในทุกๆกรณีผ่าน Flow ตามเงื่อนไขที่กำหนดไว้ โดยแจ้งผลการแก้ไขทุกเงื่อนไข โดยเงื่อนไขที่ 3 (ใช้เกิน) ให้ CEO อนุมัติทุกกรณี นำเสนอพร้อมกันกับ Workflow Revise เพื่อดำเนินการแก้ไขพร้อมกัน ในวันที่ 14/06/2022	**กำหนดเสร็จ** 27/05/2022(Delay)
+**Clear Advance Workflow**	ต้องการ Set Workflow ให้การ Clear Advance ในทุกๆกรณีผ่าน Flow ตามเงื่อนไขที่กำหนดไว้ โดยหลังจากที่นำเสนอแล้วในส่วนของ Advance Clearing สามารถทำได้ทันทีตามที่ได้ออกแบบไว้
+โดยต้องมีการแจ้งให้ User ทราบก่อนจะใช้งานจริง	**กำหนดเสร็จ** 01/07/2022
 
-**Credit Limit Approval**	เนื่องจากทีมการเงินได้ใช้ Approve Credit Limit ที่ทีมพัฒนาเสร็จเรียบร้อยแล้ว แต่มีความต้องการเพิ่มเติมเพื่อให้สามารถทำงานได้สะดวกมากยิ่งขึ้น จึงให้ทีมไอทีได้เพิ่มเติม	โดยแก้ไข Flow การ Approve ให้มี Sales Manager เป็น Review Level 1 และทีมการเงินจะทำการ Approve ตามลำดับขึ้นต่อไป โดยการ Approve Level 1 จะต้องแนบเอกสารสำคัญ 5 เอกสาร (กำหนดเป็น ERP Project)	**กำหนดเสร็จ** 20/06/2022(Delay)
+**E-Purchase**	เตรียมประชุมกับทีม Sales เพื่อหาแนวทางในการตอบลูกค้า โดยล่าสุดส่ง Demo ให้กับลูกค้า ซึ่งเป็นเวอร์ชั่นที่พัฒนาล่าสุดในปัจจุบันยังไม่สามารถ Approve ได้	**กำหนดเสร็จ** 17/06/2022
 
-**Credit Limit Mass Upload**	เนื่องจาก Credit Limit ของหลาย Customer ไม่ถูกต้อง ทำให้ต้องมีการปรับใหม่เพื่อให้ถูกต้อง 	Mass Update Credit Limit และ Export ข้อมูลลูกค้าที่ Credit Limit ค่าใหม่กระทบกับการเปิด Sales Order หรือ Invoice	**กำหนดเสร็จ** 17/06/2022(Delay)
+**ตัดเบิกกาวอัตโนมัติ(Ticket#5266)** การเบิกวัตถุดิบกาว ไม่ได้ตัดเบิก 100% เนื่องจากไม่ได้ใช้ทั้งหมด หน่วยงานเตรียมพิมพ์มีความต้องการตัดเบิก Raw Material กาว โดยต้องคุยรายละเอียดอีกครั้ง **กำหนดเสร็จ** 24/06/2022
 
-**Edit Signature TBDP Report**	เนื่องจากเจ้าของลายเซ็นต์ลาออก จึงจำเป็นต้องแก้ไขลายเซ็นใน Report ที่เกี่ยวข้องเช่น Invoice และ Receipt	**กำหนดเสร็จ** 17/06/2022(Delay)
-
-**E-Purchase**	เตรียมประชุมกับทีม Sales เพื่อหาแนวทางในการตอบลูกค้า	**กำหนดเสร็จ** 15/06/2022(Delay)
-
-**Sales Order Template**	ทศนิยมในส่วนของราคาต่อหน่วยมีจำนวนมาก ทำให้เกิด Error ในระบบที่ไม่ถูกต้อง ทำการ Validate ไม่ให้เกิน 4 Digits	**กำหนดเสร็จ** 17/06/2022
-
-**ตัดเบิกกาวอัตโนมัติ(Ticket#5266)**	หน่วยงานเตรียมพิมพ์มีความต้องการตัดเบิก RM กาว ต้องคุยรายละเอียดอีกครั้ง **กำหนดเสร็จ** 17/06/2022
-
-**Printing Report**	(High Priority) Packing Slip, Invoice แต่ละต้นทางการปริ้นแสดงผลไม่เหมือนกัน อาจจะต้องเก็บข้อมูล Report ที่มีปัยหาแล้วตรวจสอบในระบบอีกครั้ง **กำหนดเสร็จ** 17/06/2022
+**Printing Report** Packing Slip, Invoice, Receipt แต่ละต้นทางการปริ้นแสดงผลไม่เหมือนกัน อาจจะต้องเก็บข้อมูล Report ที่มีปัยหาแล้วตรวจสอบในระบบอีกครั้ง **กำหนดเสร็จ** 24/06/2022
 
 ## *CO-Project*
 **WH Location Project** เปลี่ยนความต้องการเป็นส่งข้อมูล Packing Slip เพื่อใช้ยริการขนส่งกับ Kerry โดยมีงานที่ทีม ERP ต้องรับผิดชอบดังนี้ 
-- Warehouse Management ส่ง Kerry Template ให้ทีม Synnex Export ข้อมูลจากระบบได้ทันที (Phase#1)
-- Offset Product ใช้ Process Flow ปกติในการทำงาน แต่ต้องทำ Export Function ตามข้อมูลใน Template เพื่อนำเข้าระบบ Kerry(Phase#2)
-- Digital Product (Phase#3)
+- (Phase#1)Warehouse Management ส่ง Kerry Template ให้ทีม Synnex Export ข้อมูลจากระบบได้ทันที 
+- (Phase#2)Offset Product ใช้ Process Flow ปกติในการทำงาน แต่ต้องทำ Export Function ตามข้อมูลใน Template เพื่อนำเข้าระบบ Kerry
+- (Phase#3)Digital Product 
 ต้องมี Report Support ทีมบัญชีในการเช็ค Diff ของการ Post Invoice ข้ามเดือนกับ Packing Slip รวมถึงการแก้ไข Report as Finished Auto เพื่อให้รับยอดผลิตจากระบบ TOne และ Picking and Packing Automatically 
-
-Note:เตรียมจัดการในรูปแบบของ Project Management
 
 **กำหนดเสร็จ** 01/07/2022
 
@@ -51,14 +40,14 @@ https://gofivegroup.sharepoint.com/:w:/s/ITERP/EZxAPab0vBRBmDqVgfEManMBfZ97IQ4Nq
 ## *ERP Project*
 Project Name|Weekly highlight|
 |---|---|
-Review Service|Merging Service เรียบร้อยแล้ว เตรียมขึ้น Production กลางเดือนมิถุนายม (หลังปาล์มรับปริญญา)
-Realtime Process|Go-Live (Sprint 1) and Review, Sprint Planning (Sprint#2)
-Power BI & Dashboard|Planning Dashboard แก้ไข Job Monitor Offset Web เพื่อให้สามารถผลเป็น TV ได้
-Workflow Revise|ออกแบบเรียบร้อยแล้ว เตรียมสรุปผลนำเสนอสำหรับ Phase#1 และ Return Advance โดยจะยังไม่มี O3 อยู่ใน Workflow แต่เป็นการ Remove Duplicated ของ Workflow และกลุ่มของการอนุมัติที่ซ้ำซ้อน (นำเสนอวันที่ 14/06/2022)
-Cal Cost|ออกแบบ Flow การทำงานเรียบร้อยแล้ว เตรียมวางแผนโปรเจค
-Credit Limit|Task List เรียบร้อยแล้ว เตรียมทำ Sprint Planning
-Auto PO After Re-Ordering Point|เริ่มต้นโดยการระบุค่า Minimum ใน Product ที่ต้องการให้เกิดการแจ้งเตือนผ่านทาง Email กรณี Inventory Balance ลดลงมากกว่า Minimum ที่ระบุไว้
-Warehouse Kerry| เตรียมออกแบบ Project Phase, Pilot Project, Dry-Run Period และ Sprint Planning 
+Review Service|Merging Service เรียบร้อยแล้ว เตรียมขึ้น Production สิ้นเดือนมิถุนายน
+Realtime Process|Sprint#1 Closed, Sprint#2 - In Progress 
+Power BI & Dashboard|Planning Dashboard ยังขาดรูปเครื่องจักร รอ Deploy กำหนดเสร็จ 24/06/2022
+Workflow Revise|Return Advance ทำได้ทันที, PR-PO รอเซ็นอนุมัติอีกครั้ง เนื่องจากต้องการยุบจำนวน Workflow ตามที่ได้ออกแบบเพราะมีการแก้ไข
+Cal Cost|ออกแบบ Flow การทำงานเรียบร้อยแล้ว เตรียมประชุมกับ User วันที่ 20/06/2022
+Credit Limit|เรียบร้อยแล้ว 2 ส่วนแรกคือลำดับอนุมัติและไฟล์แนบใช้งานวันที่ 20/06/2022
+Auto PO After Re-Ordering Point|เริ่มต้นโดยการระบุค่า Minimum ใน Product ที่ต้องการให้เกิดการแจ้งเตือนผ่านทาง Email กรณี Inventory Balance ลดลงมากกว่า Minimum ที่ระบุไว้ เตรียมเพิ่ม Report แสดง Leadtime เพื่อนำไปปรับปรุงยอด Minimun ต่อไป
+Warehouse Kerry| สรุปแผน Project Phase เรียบร้อยแล้ว 
 ***
 
 **ERP Team Project Timeline 2022** https://gofivegroup.sharepoint.com/:x:/s/ITERP/EX2NZuAgIpBFpFTJvF23FsMBTZUm4_jgncWha8bjLxFwFg
