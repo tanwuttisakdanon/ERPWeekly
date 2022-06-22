@@ -1,15 +1,13 @@
-# IT Operation Summary Report - 25 
-##### 13 June - 17 June 2022
+# IT Operation Summary Report - 26 
+##### 20 June - 24 June 2022
 ## **IT ERP**
 ## Executive summary
   
 ## Highlight / Important
-- Mass Upload Credit Limit
-- Workflow Revise Conclusion
+- Credit Limit Approval 2 Task Launch
 ## Meeting 
-- ERP Monthly and Project Q2 Task Summary
-- Approval Workflow Present
-- ORK Q2 Result Review and ORK Q3 Plan
+- Cal Cost Meeting with related users
+- ERP Knowledge Sharing
 - ERP Weekly Summary Meeting
 
 # Operation & Service #
@@ -19,7 +17,7 @@
 **Clear Advance Workflow**	ต้องการ Set Workflow ให้การ Clear Advance ในทุกๆกรณีผ่าน Flow ตามเงื่อนไขที่กำหนดไว้ โดยหลังจากที่นำเสนอแล้วในส่วนของ Advance Clearing สามารถทำได้ทันทีตามที่ได้ออกแบบไว้
 โดยต้องมีการแจ้งให้ User ทราบก่อนจะใช้งานจริง	**กำหนดเสร็จ** 01/07/2022
 
-**E-Purchase**	เตรียมประชุมกับทีม Sales เพื่อหาแนวทางในการตอบลูกค้า โดยล่าสุดส่ง Demo ให้กับลูกค้า ซึ่งเป็นเวอร์ชั่นที่พัฒนาล่าสุดในปัจจุบันยังไม่สามารถ Approve ได้	**กำหนดเสร็จ** 17/06/2022
+**E-Purchase**	เตรียมประชุมกับทีม Sales เพื่อหาแนวทางในการตอบลูกค้า โดยล่าสุดส่ง Demo ให้กับลูกค้า ซึ่งเป็นเวอร์ชั่นที่พัฒนาล่าสุดในปัจจุบันยังไม่สามารถ Approve ได้ และยังไม่มี Feedback จากลูกค้า	**กำหนดเสร็จ** 17/06/2022
 
 **ตัดเบิกกาวอัตโนมัติ(Ticket#5266)** การเบิกวัตถุดิบกาว ไม่ได้ตัดเบิก 100% เนื่องจากไม่ได้ใช้ทั้งหมด หน่วยงานเตรียมพิมพ์มีความต้องการตัดเบิก Raw Material กาว โดยต้องคุยรายละเอียดอีกครั้ง **กำหนดเสร็จ** 24/06/2022
 
@@ -43,11 +41,10 @@ Project Name|Weekly highlight|
 Review Service|Merging Service เรียบร้อยแล้ว เตรียมขึ้น Production สิ้นเดือนมิถุนายน
 Realtime Process|Sprint#1 - Closed, Sprint#2 - In Progress 
 Power BI & Dashboard|Planning Dashboard ยังขาดรูปเครื่องจักร รอ Deploy กำหนดเสร็จ 24/06/2022
-Workflow Revise|Return Advance ทำได้ทันที, PR-PO รอเซ็นอนุมัติอีกครั้ง เนื่องจากต้องการยุบจำนวน Workflow ตามที่ได้ออกแบบเพราะมีการแก้ไข
-Cal Cost|ออกแบบ Flow การทำงานเรียบร้อยแล้ว เตรียมประชุมกับ User วันที่ 20/06/2022
-Credit Limit|เรียบร้อยแล้ว 2 ส่วนแรกคือลำดับอนุมัติและไฟล์แนบใช้งานวันที่ 20/06/2022
-Auto PO After Re-Ordering Point|เริ่มต้นโดยการระบุค่า Minimum ใน Product ที่ต้องการให้เกิดการแจ้งเตือนผ่านทาง Email กรณี Inventory Balance ลดลงมากกว่า Minimum ที่ระบุไว้ เตรียมเพิ่ม Report แสดง Leadtime เพื่อนำไปปรับปรุงยอด Minimun ต่อไป
-Warehouse Kerry| สรุปแผน Project Phase เรียบร้อยแล้ว 
+Workflow Revise| ดำเนินการสร้าง Return Advance Workflow และ ปรับเปลี่ยนการอนุมัติเป็นแบบขั้นบันไดและยุบรววม Workflow ในส่วนของ PR/PO
+Cal Cost|ประชุมครั้งที่ 1(20/06/2022) กับทีมที่เกี่ยวข้องแล้ว พบว่าต้องสอนการใช้งานทั้งหมดใหม่ รวมถึงมีการแก้ไขบางส่วนเพื่อให้ใช้งานได้สะดวกมากยิ่งขึ้น ประชุมครั้งที่ 2(23/06/2022) เพิ่มเติมกับทีมบัญชี
+Credit Limit|กำลังพัฒนาเรื่องวงเงินชั่วคราว กำหนดเสร็จ 27/06/2022
+Warehouse Kerry| Phase 1 กำลังพัฒนาและตรวจสอบ Template กำหนดเสร็จ 27/06/2022
 ***
 
 **ERP Team Project Timeline 2022** https://gofivegroup.sharepoint.com/:x:/s/ITERP/EX2NZuAgIpBFpFTJvF23FsMBTZUm4_jgncWha8bjLxFwFg
@@ -65,3 +62,7 @@ Warehouse Kerry| สรุปแผน Project Phase เรียบร้อย
 **Workflow Revise** https://gofivegroup.sharepoint.com/:x:/s/ITERP/Ed3RDwkANWNApIWMXQpN3MgBA2dJJey6NYvNlUamXv7tLg?e=Opo0tu
 
 **Cal Cost** https://gofivegroup.sharepoint.com/:x:/s/ITERP/EQP6swE-JjVJhVQFX9EUPfsBvvpu_B3PjsA9JcNAK17Zfg?e=6CfS4h
+
+**Warehouse** https://sharing.clickup.com/25655989/l/h/5-108838434-1/ad056f5b6c79f00
+
+
