@@ -6,7 +6,8 @@
 ## Highlight / Important
 - Credit Limit Approval 2 Task Launch
 ## Meeting 
-- Cal Cost Meeting with related users
+- Cal Cost Meeting with related users #1
+- Cal Cost Meeting with related users #2 (Accounting) 
 - ERP Knowledge Sharing
 - ERP Weekly Summary Meeting
 
@@ -42,7 +43,7 @@ Review Service|Merging Service เรียบร้อยแล้ว เตร
 Realtime Process|Sprint#1 - Closed, Sprint#2 - In Progress 
 Power BI & Dashboard|Planning Dashboard ยังขาดรูปเครื่องจักร รอ Deploy กำหนดเสร็จ 24/06/2022
 Workflow Revise| ดำเนินการสร้าง Return Advance Workflow และ ปรับเปลี่ยนการอนุมัติเป็นแบบขั้นบันไดและยุบรววม Workflow ในส่วนของ PR/PO
-Cal Cost|ประชุมครั้งที่ 1(20/06/2022) กับทีมที่เกี่ยวข้องแล้ว พบว่าต้องสอนการใช้งานทั้งหมดใหม่ รวมถึงมีการแก้ไขบางส่วนเพื่อให้ใช้งานได้สะดวกมากยิ่งขึ้น ประชุมครั้งที่ 2(23/06/2022) เพิ่มเติมกับทีมบัญชี
+Cal Cost|ประชุมครั้งที่ 1(20/06/2022) กับทีมที่เกี่ยวข้องแล้ว พบว่าต้องสอนการใช้งานทั้งหมดใหม่ รวมถึงมีการแก้ไขบางส่วนเพื่อให้ใช้งานได้สะดวกมากยิ่งขึ้น ประชุมครั้งที่ 2(23/06/2022) เพิ่มเติมกับทีมบัญชีเพื่อ Get Requirement อีกครั้ง
 Credit Limit|กำลังพัฒนาเรื่องวงเงินชั่วคราว กำหนดเสร็จ 27/06/2022
 Warehouse Kerry| Phase 1 กำลังพัฒนาและตรวจสอบ Template กำหนดเสร็จ 27/06/2022
 ***
